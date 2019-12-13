@@ -18,7 +18,7 @@ Again, there isn't anything "tricky" about this repo, the application should run
 - [x] Create a resourceful Controller for an object called Review.
 - [x] Add a route that points to your Review Controller and have it return a new blade view
 - [x] Can you explain to me why the route /specials is failing and fix it. **The route pointed to `POST /specials` when it should be `GET /specials`. Also, there's a minor codestyle fix on line 68; there shouldn't be a space between `view` and `(`.**
-- [ ] What version of Laravel is this application using?
+- [x] What version of Laravel is this application using? **5.8.35**
 
 ## Simple Tasks
 
