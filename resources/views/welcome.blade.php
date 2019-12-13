@@ -31,6 +31,10 @@
                 justify-content: center;
             }
 
+            .align-left {
+                text-align: left;
+            }
+
             .position-ref {
                 position: relative;
             }
