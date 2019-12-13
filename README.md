@@ -17,7 +17,7 @@ Again, there isn't anything "tricky" about this repo, the application should run
 - [x] Go to route /products and tell me specifically what is wrong, if anything, and fix it. **The route pointed to `@indx` method, when it should be pointed to `@index`. Also, some codestyle issues, line 22 was not PSR-2 compliant.**
 - [x] Create a resourceful Controller for an object called Review.
 - [x] Add a route that points to your Review Controller and have it return a new blade view
-- [ ] Can you explain to me why the route /specials is failing and fix it.
+- [x] Can you explain to me why the route /specials is failing and fix it. **The route pointed to `POST /specials` when it should be `GET /specials`. Also, there's a minor codestyle fix on line 68; there shouldn't be a space between `view` and `(`.**
 - [ ] What version of Laravel is this application using?
 
 ## Simple Tasks

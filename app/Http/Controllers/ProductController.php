@@ -65,6 +65,6 @@ class ProductController extends Controller
      */
     public function specials()
     {
-        return view ('specials');
+        return view('specials');
     }
 }
