@@ -16,7 +16,7 @@ Again, there isn't anything "tricky" about this repo, the application should run
 - [x] Fix this list so it justify to the left without losing the format of the rest of page.
 - [x] Go to route /products and tell me specifically what is wrong, if anything, and fix it. **The route pointed to `@indx` method, when it should be pointed to `@index`. Also, some codestyle issues, line 22 was not PSR-2 compliant.**
 - [x] Create a resourceful Controller for an object called Review.
-- [ ] Add a route that points to your Review Controller and have it return a new blade view
+- [x] Add a route that points to your Review Controller and have it return a new blade view
 - [ ] Can you explain to me why the route /specials is failing and fix it.
 - [ ] What version of Laravel is this application using?
 
