@@ -102,7 +102,7 @@
 
                 <h2>Basic Tasks</h2>
 
-                <ul>
+                <ul class="align-left">
                     <li> Fork this repo into your Github account.
                     <li> Get application up and running.
                     <li> Fix this list so it justify to the left without losing the format of the rest of page.

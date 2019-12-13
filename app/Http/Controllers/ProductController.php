@@ -19,7 +19,7 @@ class ProductController extends Controller
 
         try {
             $products = Product::all();
-        }catch (\Exception $e){
+        } catch (\Exception $e) {
             $products = collect(new Product);
         }
 
