@@ -11,7 +11,7 @@ Again, there isn't anything "tricky" about this repo, the application should run
 
 ## Basic Tasks
 
-- [ ] Fork this repo into your Github account
+- [x] Fork this repo into your Github account
 - [ ] Get application up and running.
 - [ ] Fix this list so it justify to the left without losing the format of the rest of page.
 - [ ] Go to route /products and tell me specifically what is wrong, if anything, and fix it.
